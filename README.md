@@ -22,7 +22,7 @@ We want to build an application using React and TypeScript, that communicates wi
 ## Requirements
 
 1. The user can see a search bar by default.
-2. Input in the search bar should filter through github repositories
+2. Input in the search bar should filter through public github repositories
 3. The names and owners of the repositories should be displayed in a list
 4. Clicking on any repository should redirect to a page containing more data about the repository
 5. The user should be able to log in via a 'Log in' button using GitHub OAuth
