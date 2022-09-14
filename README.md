@@ -6,6 +6,15 @@
 - [Prisma](https://prisma.io)
 - [TailwindCSS](https://tailwindcss.com)
 
+## Installation
+
+Clone, then run:
+
+```bash
+npm install
+npx prisma db push
+```
+
 ## Issue at hand
 
 We want to build an application using React and TypeScript, that communicates with [github REST API](https://swapi.dev/) to fit particular requirements:
