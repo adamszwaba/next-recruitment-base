@@ -17,7 +17,7 @@ npx prisma db push
 
 ## Issue at hand
 
-We want to build an application using React and TypeScript, that communicates with [github REST API](https://swapi.dev/) to fit particular requirements:
+We want to build an application using React and TypeScript, that communicates with [github REST API](https://docs.github.com/en/rest) to fit particular requirements:
 
 ## Requirements
 
